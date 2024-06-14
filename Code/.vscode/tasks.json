@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "lonnya",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - lonnya",
+			"detail": "vite build"
+		}
+	]
+}
